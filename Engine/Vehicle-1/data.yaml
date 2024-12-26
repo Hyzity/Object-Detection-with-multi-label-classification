@@ -1,0 +1,12 @@
+names:
+- car
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: vehicle-1lshg
+  url: https://universe.roboflow.com/hyzity/vehicle-1lshg/dataset/1
+  version: 1
+  workspace: hyzity
+test: ../test/images
+train: Vehicle-1/train/images
+val: Vehicle-1/valid/images
